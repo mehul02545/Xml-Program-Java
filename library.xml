@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<library>
+	<Issued to="Faculty">
+		<Bkid>B111</Bkid>
+		<Date>03/25/2023</Date>
+		<Details>
+			<name>Nancy</name>
+			<id>A001</id>
+		</Details>
+	</Issued>
+	<Issued to="Student">
+		<Bkid>B121</Bkid>
+		<Date>03/20/2023</Date>
+		<Details>
+			<name>Harry</name>
+			<id>A005</id>
+		</Details>
+	</Issued>
+</library>
